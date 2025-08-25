@@ -158,6 +158,3 @@ Clients                                   Server
 * **Baselines**: FedAvg, FedMoE, HeteroFL, pFedGate.
 * **Hardware**: Cluster of 8 × NVIDIA A40 GPUs.
 
----
-
-**SAM-v2**: Federated learning for real-world LLMs, optimized for heterogeneity, efficiency, and adaptation. Contributions welcome—let’s innovate responsibly, and keep the expert graphs acyclic!
